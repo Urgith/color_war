@@ -1,8 +1,9 @@
 import pygame
-from pygame.locals import * 
-import os.path
-import sys
 import random
+import sys
+
+from pygame.locals import * 
+
 
 class Game:
 	def __init__(self):
